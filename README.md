@@ -1,6 +1,6 @@
 # Autonomous SWE Agent
 
-A mini [Devin](https://www.cognition.ai/blog/introducing-devin) / Cognition-style autonomous software engineering agent built with LangGraph. Give it a GitHub issue number and it will inspect the codebase, plan a fix, write the code, run tests, self-debug on failures, and open a pull request — all without human intervention.
+A mini [Devin](https://www.cognition.ai/blog/introducing-devin) / Cognition-style autonomous software engineering agent built with LangGraph. Give it a GitHub issue number and it will inspect the codebase, plan a fix, write the code, run tests, self-debug on failures, and open a pull request all without human intervention.
 
 ---
 
